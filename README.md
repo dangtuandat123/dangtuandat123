@@ -1,16 +1,62 @@
-## Hi there 👋
+# AI Engineer | AI Agents | GenAI
 
-<!--
-**dangtuandat123/dangtuandat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI systems and web applications.
 
-Here are some ideas to get you started:
+My main focus is **AI agents, RAG, agentic workflows, LLM integration, and backend systems**.  
+I also work with full-stack development when the AI product needs a complete web interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**AI & LLM**
+- AI Agents
+- RAG
+- Multi-Agent Workflows
+- Prompt Engineering
+- Tool Calling
+- LLM Integration
+- Embeddings
+- Vector Search
+- Memory & Context Management
+- Human-in-the-loop Workflows
+
+**Frameworks & Automation**
+- LangGraph
+- LangChain
+- Langflow
+- n8n
+
+**Backend**
+- Python
+- FastAPI
+- PHP / Laravel
+- REST APIs
+- Background Jobs & Queues
+
+**Frontend**
+- React
+- Vue.js
+- Electron.js
+
+**Databases & Vector Stores**
+- PostgreSQL
+- Supabase
+- pgvector
+- Chroma
+- Qdrant
+
+**LLM APIs & Tools**
+- OpenAI SDK
+- OpenRouter
+- Ollama
+- Git
+- Docker
+
+## What I like building
+
+- AI agents that can use tools and APIs
+- RAG systems for private or structured data
+- Natural-language interfaces for databases
+- Multi-agent workflows
+- Real-time LLM backends
+- Automation with human approval steps
+- Full-stack AI applications
