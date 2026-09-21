@@ -1,90 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=AI%20Engineer&fontAlign=50&fontAlignY=38&desc=AI%20Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20Workflows%20%E2%80%A2%20GenAI&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=gradient&customColorList=6,11,20&text=AI%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20LLM%20Systems&descSize=15&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Working+with+AI+Agents+%26+RAG;Creating+LLM-powered+backend+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems;Designing+agentic+workflows;Connecting+LLMs+with+real+products" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=sparkfun&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Backend-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-F59E0B?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## ✦ About
+
+I build **AI systems and web applications** with a focus on practical use.
+
+My main interests are **AI agents, RAG, tool calling, multi-agent workflows, LLM integration, memory, and backend systems**.  
+I also work with full-stack development to turn AI workflows into complete products.
+
+---
+
+## ✦ AI & LLM
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Workflows-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Search-E11D48?style=flat-square" />
+  <img src="https://img.shields.io/badge/Memory_%26_Context-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Human--in--the--loop-0F766E?style=flat-square" />
+</p>
+
+---
+
+## ✦ Frameworks & Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Langflow-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,react,vue,electron,postgres,supabase,docker,git&perline=11" />
 
 </div>
 
 <br/>
 
-## 👋 About me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I build practical **AI systems and web applications**.
+### Backend
 
-My main focus is **AI Agents, RAG, agentic workflows, LLM integration, and backend systems**.  
-I also work with full-stack development when an AI product needs a complete web interface.
+- Python
+- FastAPI
+- PHP / Laravel
+- REST APIs
+- Background jobs
+- Queue-based workflows
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-## 🧠 AI & LLM
+### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge" />
-</p>
+- React
+- Vue.js
+- Electron.js
+- AI-powered web interfaces
 
-- Prompt engineering
-- Memory & context management
-- Human-in-the-loop workflows
-- LLM integration
-- Agent orchestration
+</td>
+</tr>
 
-<br/>
+<tr>
+<td width="50%" valign="top">
 
-## ⚙️ Frameworks & Automation
+### Data & Vector Search
 
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Langflow-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+- PostgreSQL
+- Supabase
+- pgvector
+- Chroma
+- Qdrant
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-## 💻 Tech Stack
+### LLM APIs & Tools
 
-<div align="center">
+- OpenAI SDK
+- OpenRouter
+- Ollama
+- Git
+- Docker
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,react,vue,electron,postgres,supabase,docker,git&perline=6" />
+</td>
+</tr>
+</table>
 
-</div>
-
-<br/>
-
-## 🗄️ Data & Vector Search
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge" />
-</p>
-
-<br/>
-
-## 🔌 LLM APIs
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
-
-<br/>
+---
 
 <div align="center">
 
-### Focus
+### ⚡ Current Focus
 
-`AI Agents` · `RAG` · `LLM Backend` · `Automation` · `Full-stack AI`
+<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Backend-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack_AI-F59E0B?style=for-the-badge" />
+
+<br/><br/>
+
+<sub>Build useful things. Keep them simple.</sub>
 
 </div>
