@@ -23,7 +23,7 @@
 
 I build **AI systems and web applications** with a focus on practical use.
 
-My main interests are **AI agents, RAG, tool calling, multi-agent workflows, LLM integration, memory, and backend systems**.  
+My main interests are **AI agents, RAG, multi-agent workflows, and backend systems**.  
 I also work with full-stack development to turn AI workflows into complete products.
 
 ---
@@ -34,12 +34,8 @@ I also work with full-stack development to turn AI workflows into complete produ
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
   <img src="https://img.shields.io/badge/Multi--Agent_Workflows-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Embeddings-059669?style=flat-square" />
   <img src="https://img.shields.io/badge/Vector_Search-E11D48?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory_%26_Context-9333EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Human--in--the--loop-0F766E?style=flat-square" />
 </p>
 
 ---
